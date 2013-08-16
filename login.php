@@ -1,5 +1,5 @@
 <?php
-@
+
 $username = S_POST['username'];
 $password = $_POST['password'];
 
